@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVekX3fQAnDlmkiSx+MLBxwPw8ZT6r/KM8/yBtg0oTNxQlpYJqYShzI9UZuJ8J2GrCrlZpRkLytr7CMro+1fEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajes\\source\\repos\\VendingMachineKata\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\gremlin.net\\3.6.0\\gremlin.net.3.6.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
